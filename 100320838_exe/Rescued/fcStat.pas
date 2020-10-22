@@ -52,9 +52,12 @@ implementation
 
 {$R *.DFM}
 
-procedure TfcStatForm.FormCreate(Sender: TObject);
-begin
-// Address $46F328
-end;
+  procedure TfcStatForm.FormCreate(Sender: TObject);
+    var 
+      i:integir;
+    begin
+    if True then
+      
+  end;
 
 end.
